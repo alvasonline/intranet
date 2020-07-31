@@ -3,3 +3,6 @@ Se inicia el documento txt
 * segundo punto a crear
 * tercer punto a crear
 * Prueba de agregar en master despues del Rebase
+* cuarto punto nuevo
+* quinto punto nuevo
+* sexto punto nuevo
