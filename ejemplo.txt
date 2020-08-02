@@ -6,3 +6,4 @@ Se inicia el documento txt
 * cuarto punto nuevo
 * quinto punto nuevo
 * sexto punto nuevo
+* septimo punto domingo
